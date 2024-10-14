@@ -1,0 +1,39 @@
+.calculator{
+    background-color: black;
+    width: 400px;
+    margin: 100px auto;
+}
+.display{
+    width: -webkit-fill-available;
+    background: none;
+    border: none;
+    height: 115px;
+    text-align: end;
+    font-size: 70px;
+    margin: 10px;
+}
+button{
+    width: 20%;
+    height: 60px;
+    border-radius: 30%;
+    font-size: 20px;
+    font-family: math;
+    border: none;
+    margin: 8px;
+}
+/*@media (max-width:767px){
+    body{
+        background: black;
+    }
+    .calculator{
+        margin: 200px auto;
+        height: auto;
+    }
+    .display{
+        margin-bottom: 60px;
+    }
+    button{
+        margin: 15px;
+        width: 67px;
+    }
+}*/
