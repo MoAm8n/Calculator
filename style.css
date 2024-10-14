@@ -21,7 +21,7 @@ button{
     border: none;
     margin: 8px;
 }
-/*@media (max-width:767px){
+@media (max-width:767px){
     body{
         background: black;
     }
@@ -36,4 +36,4 @@ button{
         margin: 15px;
         width: 67px;
     }
-}*/
+}
